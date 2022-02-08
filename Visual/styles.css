@@ -1,0 +1,47 @@
+#Banner{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    align-content: center;
+    height: 150px;
+}
+
+#Left_Menu
+{
+    background-color: orange;
+    text-align: center;
+    align-content: center;
+}
+
+#Top_Menu
+{
+    background-color: lightsalmon;
+    text-align: center;
+    align-content: center;
+}
+
+#Main
+{
+    text-align: center;
+    align-content: center;
+    height: 200px;
+}
+
+#Small{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+
+#Photo1{
+    background-color: pink;
+    text-align: center;
+    align-content: center;
+}
+
+#Photo2{
+    background-color: lightblue;
+    text-align: center;
+    align-content: center;
+}
