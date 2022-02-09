@@ -1,5 +1,5 @@
 #Banner{
-    background-color: brown;
+    background-color: rgb(91,73,60,255);
     color: white;
     text-align: center;
     align-content: center;
@@ -8,14 +8,14 @@
 
 #Left_Menu
 {
-    background-color: orange;
+    background-color: rgba(249,154,62,255);
     text-align: center;
     align-content: center;
 }
 
 #Top_Menu
 {
-    background-color: lightsalmon;
+    background-color: rgba(195,145,130,255);
     text-align: center;
     align-content: center;
 }
@@ -24,24 +24,24 @@
 {
     text-align: center;
     align-content: center;
-    height: 200px;
+    height: 320px;
 }
 
 #Small{
-    background-color: brown;
+    background-color: rgb(91,73,60,255);
     color: white;
     text-align: center;
     align-content: center;
 }
 
 #Photo1{
-    background-color: pink;
+    background-color: rgba(197,105,122,255);
     text-align: center;
     align-content: center;
 }
 
 #Photo2{
-    background-color: lightblue;
+    background-color: rgba(0,162,182,255);
     text-align: center;
     align-content: center;
 }
